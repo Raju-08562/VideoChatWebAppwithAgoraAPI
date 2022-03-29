@@ -1,5 +1,5 @@
 const APP_ID = "13f9a5ce80a34a24b64eca075f0208c8"
-const TOKEN = "00613f9a5ce80a34a24b64eca075f0208c8IACY6yqq8JvRAPLpUJCUwnV9ugHdHUQfKmzz7qdVxhRXSpSVfG0AAAAAEACNSCPiNc41YgEAAQAyzjVi"
+const TOKEN = "00613f9a5ce80a34a24b64eca075f0208c8IAB+3dKFr8/HXJSVgX7KjUZiOKxdjDealPBxvaHReAw5NJSVfG0AAAAAEAAg4mLWFhBEYgEAAQAUEERi"
 const CHANNEL = "LiveChat"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
